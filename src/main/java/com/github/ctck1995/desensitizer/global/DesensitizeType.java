@@ -7,6 +7,11 @@ package com.github.ctck1995.desensitizer.global;
 public enum DesensitizeType {
 
     /**
+     * 无
+     */
+    FIX_NONE,
+
+    /**
      * 手机号码
      */
     FIX_PHONE,
